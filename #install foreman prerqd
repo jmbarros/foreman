@@ -1,0 +1,2 @@
+#install foreman prerqd
+apt-get install foreman-vmware
